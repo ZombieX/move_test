@@ -301,3 +301,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+move_test.vcxproj.filters
+*.vcxproj
