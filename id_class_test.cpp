@@ -1,7 +1,7 @@
-
+/*
 #include<iostream>
 #include<utility>
-#include"move_call_class.hpp"
+#include"id_class.hpp"
 
 template<class T>
 void put(const T& t) {
@@ -21,7 +21,6 @@ void print(const T&... arg){
 
 
 int main() {
-	std::cout << "hello world\n";
 	{
 		zxc::test::tester a, b;
 		auto c = a;
@@ -30,7 +29,10 @@ int main() {
 		auto d = std::move(b);
 		print(a, b, c, d);
 	}
+
 	//auto
 	//
 	return 0;
 }
+
+*/
